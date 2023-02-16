@@ -43,7 +43,7 @@ const Register = () => {
                             </div>
                             <div className="text-center">
                                 <button class="my-2 mx-auto btn btn-dark" type="submit">
-                                    Register
+                                    <Link to="/" className="text-decoration-underline text-info">Register</Link>
                                 </button>
                                 
                             </div>
